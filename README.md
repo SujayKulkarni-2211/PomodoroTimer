@@ -19,7 +19,7 @@ This Pomodoro Timer project is an expansion of the timer functionality taught by
 4. Reset the timer at any time by clicking "Reset Timer".
 
 ## Credits
-- Pomodoro timer concept and initial UI design: Angela Yu (Lead Instructor at App Brewery)
+- Pomodoro timer concept and initial UI design: Angela Yu (Lead Instructor at App Brewery): recieved as part of 100 days of python Udemy course by Angela Yu
 - Additional features (sound cues, SQLite integration): Sujay V Kulkarni
 
 ## Acknowledgements
